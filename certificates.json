@@ -1,0 +1,27 @@
+{
+  "certificates": {
+
+    "cert1": {
+
+      "private_key": "ASDFGHJKL",
+      "certificate": "certificate1here",
+
+      "access": [
+        "user1",
+        "user2"
+      ]
+
+    },
+
+    "cert2": {
+
+      "private_key": "LKJHGFDSA",
+      "certificate": "certificate2here",
+
+      "access":[
+        "user2"
+      ]
+
+    }
+  }
+}
